@@ -17,3 +17,4 @@ hub -> db: Chat ID, Token, TokenAlias
 hub --> bot: Chat ID, TokenAlias status
 bot --> user: Chat ID, TokenAlias status
 @enduml
+
