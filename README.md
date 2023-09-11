@@ -9,6 +9,7 @@ Docs is a place for all Blamer.io documentation and related [wiki](https://githu
 
 Table of Contents:
 
+* [Motivation](https://github.com/Blamer-io/docs/wiki/Motivation)
 * [Policy](https://github.com/Blamer-io/docs/wiki/Policy)
 * [PDD](https://github.com/Blamer-io/docs/wiki/PDD)
 * [Technical Stack](https://github.com/Blamer-io/docs/wiki/Technical-Stack)
