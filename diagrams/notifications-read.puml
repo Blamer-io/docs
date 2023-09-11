@@ -19,3 +19,4 @@ bot -> broker
 broker --> bot: Tuple ID, Notifications Stream
 bot --> user: Chat ID, TokenAlias:Notifications Stream
 @enduml
+
