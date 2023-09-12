@@ -1,5 +1,5 @@
 @startuml
-title Add Token Success Flow
+title Add Token Scenario
 actor       TelegramUser as user
 participant Bot as bot
 participant Hub as hub
