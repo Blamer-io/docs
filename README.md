@@ -11,10 +11,13 @@ Table of Contents:
 
 * [Motivation](https://github.com/Blamer-io/docs/wiki/Motivation)
 * [Policy](https://github.com/Blamer-io/docs/wiki/Policy)
-* [PDD](https://github.com/Blamer-io/docs/wiki/PDD)
+* [Glossary](https://github.com/Blamer-io/docs/wiki/Glossary)
+* [SRS](https://github.com/Blamer-io/docs/wiki/SRS)
 * [System Scenarios](https://github.com/Blamer-io/docs/wiki/System-Scenarios)
+* [System Deployment](https://github.com/Blamer-io/docs/wiki/System-Deployment)
 * [Technical Stack](https://github.com/Blamer-io/docs/wiki/Technical-Stack)
 * [Team Configurations](https://github.com/Blamer-io/docs/wiki/Team-Configurations)
+* [PDD](https://github.com/Blamer-io/docs/wiki/PDD)
 * [Release Milestones](https://github.com/Blamer-io/docs/wiki/Release-Milestones)
 
 ## How to Contribute
